@@ -8,35 +8,5 @@
     "endDate": null,
     "description": "",
     "type": "education"
-  },
-  {
-    "id": "",
-    "position": "修士（工学）",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "",
-    "endDate": "",
-    "description": "",
-    "type": "education"
-  },
-  {
-    "id": "",
-    "position": "博士（工学）",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "",
-    "endDate": "",
-    "description": "",
-    "type": "education"
-  },
-  {
-    "id": "",
-    "position": "博士研究員",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "",
-    "endDate": ,
-    "description": "",
-    "type": "work"
   }
 ]
