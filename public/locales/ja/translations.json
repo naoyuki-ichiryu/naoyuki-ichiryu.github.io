@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "あなたの名前"
+    "name": "一柳 直之"
   },
   "nav": {
     "bio": "プロフィール",
@@ -10,21 +10,21 @@
     "contact": "連絡先"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
-    "phd": "Ph.D.",
-    "phdJp": "博士（工学）",
-    "position": "博士研究員",
+    "name": "Naoyuki Ichiryu",
+    "nameJp": "一柳 直之",
+    "phd": "",
+    "phdJp": "",
+    "position": "学部４年",
     "affiliation": "東京大学 総合研究機構",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "github": "",
+    "scholar": "",
+    "orcid": "",
+    "researchmap": "",
+    "linkedin": "",
     "researchInterests": "研究興味",
     "researchTags": [
-      "数学",
-      "物理学"
+      "",
+      ""
     ]
   },
   "publications": {
@@ -60,7 +60,7 @@
     "location": "所在地",
     "relatedLinks": "関連リンク",
     "email": "メールアドレス",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "ichiryu[at]sigma.t.u-tokyo.ac.jp",
     "phone": "電話番号",
     "phoneNumber": "+81-3-5841-7689",
     "address": "住所",
