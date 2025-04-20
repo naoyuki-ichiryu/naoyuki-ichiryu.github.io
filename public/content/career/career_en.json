@@ -8,35 +8,5 @@
     "endDate": null,
     "description": "",
     "type": "education"
-  },
-  {
-    "id": "",
-    "position": "M.Eng. in Materials Engineering",
-    "organization": "The University of Tokyo",
-    "location": "Tokyo, Japan",
-    "startDate": "",
-    "endDate": "",
-    "description": "",
-    "type": "education"
-  },
-  {
-    "id": "",
-    "position": "Ph.D. in Materials Engineering",
-    "organization": "The University of Tokyo",
-    "location": "Tokyo, Japan",
-    "startDate": "",
-    "endDate": "",
-    "description": "",
-    "type": "education"
-  },
-  {
-    "id": "",
-    "position": "Postdoctoral Researcher",
-    "organization": "The University of Tokyo",
-    "location": "Tokyo, Japan",
-    "startDate": "",
-    "endDate": ,
-    "description": "",
-    "type": "work"
   }
 ]
