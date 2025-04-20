@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Naoyuki Ichiryu"
   },
   "nav": {
     "bio": "About",
@@ -10,21 +10,21 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Naoyuki Ichiryu",
+    "nameJp": "一柳 直之",
     "phd": "",
-    "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
+    "phdJp": "",
+    "position": "Bachelor Student",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
-    "researchInterests": "Research Interests",
+    "github": "",
+    "scholar": "",
+    "orcid": "",
+    "researchmap": "",
+    "linkedin": "",
+    "researchInterests": "",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "",
+      ""
     ]
   },
   "publications": {
@@ -60,7 +60,7 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "ichiryu[at]sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
