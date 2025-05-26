@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# サイトマップの場所
+Sitemap: https://naoyuki-ichiryu.github.io/sitemap.xml
