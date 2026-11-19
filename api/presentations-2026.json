@@ -1,0 +1,58 @@
+[
+  {
+    "id": "presentation-4",
+    "title": "Observation of vortices in REBCO lamella via cryo-DPC STEM",
+    "titleJa": "極低温DPC STEMを⽤いたREBCO薄膜中の超伝導ボルテックス局所観察",
+    "speakers": "Naoyuki Ichiryu, Satoko Toyama, Takeshi Iwata, Michael Xu, Takanori Motoki, Toshinori Ozaki, Hirokazu Sasaki, Takehito Seki, Naoya Shibata",
+    "speakersJa": "一柳 直之, 遠山 慧子, 岩田 健史, 許 マイケル, 元木 貴則, 尾崎 壽紀, 佐々木 宏和, 関 岳人, 柴田 直哉",
+    "conference": "The 69th Symposium of the Japanese Society of Microscopy",
+    "conferenceJa": "公益社団法人日本顕微鏡学会　第69回シンポジウム",
+    "date": "2026-11",
+    "year": "2026",
+    "place": "Kumamoto-Jo Hall, Japan",
+    "placeJa": "熊本城ホール, 日本",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-3",
+    "title": "Local analysis of superconducting vortices at YBa2Cu3O7 twin boundary",
+    "titleJa": "YBa2Cu3O7双晶界⾯における超伝導ボルテックス局所解析",
+    "speakers": "Naoyuki Ichiryu, Satoko Toyama, Takeshi Iwata, Michael Xu, Takanori Motoki, Toshinori Ozaki, Hirokazu Sasaki, Takehito Seki, Naoya Shibata",
+    "speakersJa": "一柳 直之, 遠山 慧子, 岩田 健史, 許 マイケル, 元木 貴則, 尾崎 壽紀, 佐々木 宏和, 関 岳人, 柴田 直哉",
+    "conference": "2026 Annual Fall Meeting of the Japan Institute of Metals and Materials",
+    "conferenceJa": "公益社団法人日本金属学会2026年秋期(第179回)講演大会",
+    "date": "2026-09",
+    "year": "2026",
+    "place": "Akita Univ., Japan",
+    "placeJa": "秋田大学, 日本",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-2",
+    "title": "Observation of superconducting vortices in YBa2Cu3O7 using cryo-DPC STEM",
+    "titleJa": "極低温DPC STEMを⽤いたYBa2Cu3O7中の超伝導ボルテックス局所観察",
+    "speakers": "Naoyuki Ichiryu, Satoko Toyama, Takeshi Iwata, Michael Xu, Takanori Motoki, Toshinori Ozaki, Hirokazu Sasaki, Takehito Seki, Naoya Shibata",
+    "speakersJa": "一柳 直之, 遠山 慧子, 岩田 健史, 許 マイケル, 元木 貴則, 尾崎 壽紀, 佐々木 宏和, 関 岳人, 柴田 直哉",
+    "conference": "The 82nd Annual Meeting of The Japanese Society of Microscopy",
+    "conferenceJa": "公益社団法人日本顕微鏡学会 第82回学術講演会",
+    "date": "2026-05",
+    "year": "2026",
+    "place": "Sendai International Center, Japan",
+    "placeJa": "仙台国際センター, 日本",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-1",
+    "title": "Real-space observation of superconducting vortices in YBa2Cu3O7 via cryo-STEM",
+    "titleJa": "Real-space observation of superconducting vortices in YBa2Cu3O7 via cryo-STEM",
+    "speakers": "Naoyuki Ichiryu, Satoko Toyama, Takehito Seki, Naoya Shibata",
+    "speakersJa": "Naoyuki Ichiryu, Satoko Toyama, Takehito Seki, Naoya Shibata",
+    "conference": "The 5th Workshop on Functional Materials Science",
+    "conferenceJa": "The 5th Workshop on Functional Materials Science",
+    "date": "2026-03",
+    "year": "2026",
+    "place": "Tokyo Univ., Japan",
+    "placeJa": "Tokyo Univ., Japan",
+    "isInvited": false
+  }
+]
